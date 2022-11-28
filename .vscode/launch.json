@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "App_3590a5de"
+            
+        }
+    ]
+}
