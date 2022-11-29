@@ -12,3 +12,6 @@ Creating a ToDo list is easy.  Just type in the name of the list and click the "
 
 ### Removing an item from a ToDo list
 To remove an item from a ToDo list, click on the item and then click the "Remove" button.
+
+Video Demo:
+https://youtu.be/QNHMDWprCH8
