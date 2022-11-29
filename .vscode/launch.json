@@ -1,13 +1,27 @@
 {
     "configurations": [
-        
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Launch JavaFXDoGood",
             "request": "launch",
-            "mainClass": "App",
+            "mainClass": "application.JavaFXDoGood",
             "projectName": "App_3590a5de"
-            
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "App_3590a5de",
+            "vmArgs": "--module-path java --module-path C:\\Users\\fredi\\Desktop\\javafx-sdk-19\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "App_3590a5de",
+            "vmArgs": "--module-path java --module-path C:\\Users\\fredi\\Desktop\\javafx-sdk-19\\lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
